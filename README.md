@@ -7,4 +7,5 @@ This is code is so basic that it shouldn't be copyrightable but I added an open 
 ## Testing
 - Tested on: **01-11-2022**
 - Tested OS: **Windows 11** - Version 21H2 (OS Build 22000.1098)
-- Tested with: **OpenJDK 19** - Eclipse Temurin JDK with Hotspot 19+36(x64)
+- Tested with: **OpenJDK 19** - Eclipse Temurin JDK with Hotspot 19+36(x64) (See: https://adoptium.net/en-GB/temurin/releases/?version=19)
+- Tested with JavaFX (OpenJFX) version: **OpenJFX 19** (See: https://openjfx.io and repo: https://github.com/openjdk/jfx)
